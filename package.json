@@ -1,6 +1,6 @@
 {
   "name": "mediafire-link",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "You can have the Mediafire link with this module.",
   "main": "index.js",
   "scripts": {
